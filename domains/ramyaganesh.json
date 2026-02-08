@@ -5,6 +5,6 @@
     },                                                                                                                          
     "record": {
       "CNAME": "cname.vercel-dns.com",
-      "TXT": ["vc-domain-verify=<your-verification-code>"]
+      "TXT": ["vc-domain-verify=ramyaganesh.is-a.dev,0e95dcbf022546946149"]
     }
   }
